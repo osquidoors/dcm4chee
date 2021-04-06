@@ -1,0 +1,17 @@
+/bin/
+/client/
+/doc/
+/lib/
+/sql/
+/tempinst/
+/server/default/archive/
+/server/default/data/
+/server/default/delete/
+/server/default/lib/
+/server/default/log/
+/server/default/tar-extracted/
+/server/default/tar-extracted-journal/
+/server/default/tmp/
+/server/default/wadocachedata/
+/server/default/wadocachejournal/
+/server/default/work/
